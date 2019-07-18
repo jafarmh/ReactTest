@@ -1,0 +1,10 @@
+.headci{
+    display: grid;
+    grid-template-columns: 80% 20%;
+}
+.tag{
+    color: #247A00;
+}
+.tag:hover{
+    color: #247A00;
+}

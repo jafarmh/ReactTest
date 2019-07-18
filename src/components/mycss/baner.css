@@ -1,0 +1,12 @@
+.cont{
+    display: grid;
+    grid-template-columns: 33% 33% 34%;
+    grid-gap: 10px;
+}
+.titleb{
+    margin-top: 10px;
+}
+.desb{
+    color: #247A00;
+    font-weight: 700;
+}
